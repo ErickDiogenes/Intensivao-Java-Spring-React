@@ -2,7 +2,8 @@
 
 **1. Esse projeto foi realizado junto ao professor Nélio Akves**
 
-https://devsuperior.com.br
+https://devsuperior.com.br<br>
+
 https://www.youtube.com/@DevsuperiorJavaSpring
 
 ## Modelo de domínio DSList
