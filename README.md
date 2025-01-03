@@ -3,21 +3,7 @@
 **1. Esse projeto foi realizado junto ao professor Nélio Akves**
 
 https://devsuperior.com.br
-
-  
-## Calendário
-
-Os conteúdos ficarão temporariamente disponíveis no nosso canal de eventos. Ative o lembrete:
-
 https://www.youtube.com/@DevsuperiorJavaSpring
-
-| Dia / horário  | Conteúdo |
-| ------------- | ------------- |
-| Segunda-feira 20h30 | Aula 1: Projeto estruturado |
-| Terça-feira 20h30  | Aula 2: Domínio e consultas |
-| Quarta-feira 20h30 | Aula 3: Homologação e CORS |
-| Quinta-feira 20h30 | Aula 4: Endpoint especial |
-| Sexta-feira 20h30 | Aula 5: Resumão e reforço do aprendizado
 
 ## Modelo de domínio DSList
 
