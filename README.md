@@ -1,8 +1,6 @@
 # Projeto DSList - Intensivão Java Spring
 
-**1. Perdeu alguma aula ou material de apoio?**
-
-Inscreva-se para receber no seu email:
+**1. Esse projeto foi realizado junto ao professor Nélio Akves**
 
 https://devsuperior.com.br
 
